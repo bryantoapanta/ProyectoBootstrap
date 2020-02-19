@@ -1,7 +1,22 @@
+@font-face{
+    font-family: roboto;
+    src: url("../fonts/Roboto-Bold.ttf");
+}
+
 .navbar-light .navbar-nav .nav-link{
 	color:white;
 }
 
 li a{
 	border-radius: 2px;
+}
+
+.menu{
+    font-family: roboto;
+    font-size: 2.1rem;
+}
+
+.seleccion{
+    font-family: roboto;
+    font-size: 1.2rem;
 }
